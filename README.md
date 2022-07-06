@@ -1,4 +1,4 @@
-## Website Medical Knowledge
+## Website Medical Knowledge (HTML - Bootstrap)
 
 ## Dev: Phan Văn Bằng
 ###### Facebook: fb.com/it0902
